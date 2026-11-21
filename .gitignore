@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+recovered/
+test.txt
+*.mcworld
+*.zip
+.env
